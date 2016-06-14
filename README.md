@@ -96,6 +96,19 @@ We've provided starting places for the following languages. They include a sampl
 4. Add code under lib
 5. Run tests: `npm test`
 
+### Elixir
+
+#### Requirements
+- Elixir
+  - [Install Elixir](http://elixir-lang.org/install.html#distributions)
+
+#### How To
+1. Navigate to the elixir directory
+2. `mix compile`
+3. Add tests under test
+4. Add code under lib
+5. Run tests: `mix test`
+
 ## More Learning
 
 - [Happier TDD with testdouble.js](http://blog.testdouble.com/posts/2016-06-05-happier-tdd-with-testdouble-js.html)
