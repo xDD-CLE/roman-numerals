@@ -5,6 +5,7 @@
     "test": "teenytest test/**/*.test.js --helper test/support/helper.js"
   },
   "devDependencies": {
+    "lodash": "^4.13.1",
     "teenytest": "^4.1.0"
   }
 }
