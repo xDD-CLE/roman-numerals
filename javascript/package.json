@@ -1,0 +1,10 @@
+{
+  "name": "roman_numerals",
+  "version": "0.1.0",
+  "scripts": {
+    "test": "teenytest test/**/*.test.js --helper test/support/helper.js"
+  },
+  "devDependencies": {
+    "teenytest": "^4.1.0"
+  }
+}
